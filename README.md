@@ -10,11 +10,15 @@ See [prompts.md](prompts.md) for full prompt details.
 
 **Published:** [Anthems Transition](https://elevenlabs.io/app/music/project/68uLIS4W5qegu2TR0qlw)
 
+<video src="https://github.com/user-attachments/assets/24c22349-e092-4a55-9775-e383eaf7bcaf" controls></video>
+
 ## Track 2: American Music Timeline 1850–1980
 
 A historically informed instrumental medley tracing U.S. popular music from 1850 to 1980 — Civil War parlor music through disco, funk, and early hip-hop. Prompt authored by GPT 5.5.
 
 **Published:** [American Music Timeline: 1850–1980](https://elevenlabs.io/app/music/explore/creator/a2xcSQY1BOFJWVqLgdu4?selectedSongId=xOacFFie47gm6exiiVU8)
+
+<video src="https://github.com/user-attachments/assets/b778f749-965b-4b6e-9902-03e01fa16568" controls></video>
 
 ## Files
 
