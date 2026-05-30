@@ -4,6 +4,8 @@ Music generated using the [ElevenLabs Music v2](https://elevenlabs.io/music) mod
 
 See [prompts.md](prompts.md) for full prompt details.
 
+For a power-demo of Music v2, see the ElevenLabs video [How to Make AI Music with ElevenLabs Music v2](https://www.youtube.com/watch?v=vcpM4MRupNE&t=4s) on YouTube.
+
 ## Track 1: Anthems Transition
 
 > Create a solemn orchestral, majestic, soaring US national anthem that transitions into UK national anthem.
